@@ -1,0 +1,2346 @@
+fileFormatVersion: 2
+guid: d78b12bbd179eac4d81a93dca12e5f91
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 499
+        width: 31
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eef6fb0f638e6e4880097cb32a67305
+      internalID: 1399454626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 498
+        width: 36
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2af824e73f7c0c458183faefc569d21
+      internalID: 21539074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 498
+        width: 31
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3667ab428400141499020b5d52714dd7
+      internalID: 1061805559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 498
+        width: 36
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d669768e8cfda44a9dcd5d887f910d7
+      internalID: -1340794502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 498
+        width: 33
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b702e4dd69dbab24daf17a8cf46321cb
+      internalID: 1954639255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 514
+        width: 15
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7075895ef95fe4d8254dc3fe6fa9a7
+      internalID: 1327997508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 515
+        width: 15
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9f30311481b0c428ffe688ebdd1615
+      internalID: -664178095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_7
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 514
+        width: 15
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9428481fba7b93543a246b8f3d066b2c
+      internalID: 353502770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_8
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 514
+        width: 15
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbc955d80947b54eba0ef208766bcba
+      internalID: 2067057619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 514
+        width: 15
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5d3f3e21559784583596a23e6042cd
+      internalID: -425339704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_10
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 516
+        width: 14
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290249144e0527a4b9f304e8ddf1a8b7
+      internalID: -1562644844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 515
+        width: 15
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecf83bbe21bcf44e858ba5ca4507e84
+      internalID: 950388629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_12
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 450
+        width: 71
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8535a2e5acaeb4d4d99f8e190bb03a57
+      internalID: -1919754853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_13
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 482
+        width: 26
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6a4d130bcd00f41b1dc145b8d91c62
+      internalID: 646369801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_14
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 475
+        width: 15
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24597c94c5bc3444d968153f55aa15aa
+      internalID: -635825054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_15
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 471
+        width: 5
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ba3b8c3591ed44b9b82c505a5d3957
+      internalID: -1991574740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_16
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 520
+        width: 75
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ccea3be21309e478b100a4c24f2e67
+      internalID: 2058208205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_17
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 525
+        width: 78
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17252fe9b71c3f04e8d6fc58d17175ad
+      internalID: -1804033507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_18
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 489
+        width: 15
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1624926c7d079294d8b61c876a4638e6
+      internalID: 1118781141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_19
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 495
+        width: 81
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4050c5a0cd020e47a15d292450a887a
+      internalID: 1568602644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 360
+        width: 74
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94a017066c53ec499d9389b29bbe753
+      internalID: -1995143731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 360
+        width: 85
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdee6baa9f0e05148a4e97f07c77187d
+      internalID: 635088137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_22
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 360
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e449e75ac4cbd4e43bf06958e2bcbc0f
+      internalID: 1632273763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_23
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 358
+        width: 74
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2c00f0c9f0e804fb42613ef8639d6e
+      internalID: 637918910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_24
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 358
+        width: 85
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f3770fe3aaecc45ab47fa2031871ec
+      internalID: -379939159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_25
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 358
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3354979d0cbce7b4bbc4f4e8237cdd53
+      internalID: -883333726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_26
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 285
+        width: 30
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1b4125c61a8bb42a99c89d49fd8a11
+      internalID: 675496802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_27
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 285
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16b18499af9c9c4f92deec754a09cc6
+      internalID: 549370060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_28
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 285
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b9a1e330a064f4c9145947762401cd
+      internalID: -2127397920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_29
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 285
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9146dde75b593245b45349a272a0816
+      internalID: -336383312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_30
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 284
+        width: 37
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a089c64664f144585b1568481e9d74
+      internalID: 1959637809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_31
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 285
+        width: 36
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd4345b0b74eb749a0b8e8eb523eae6
+      internalID: -1113274289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_32
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 285
+        width: 43
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d5c1d2ff0a2b948afe19d0c83f66fa
+      internalID: -1997141339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_33
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 283
+        width: 31
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45edd448934ee9246aeba0cfeee02c59
+      internalID: -786193123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_34
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 283
+        width: 32
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4020902410030b34092a8ff9421f2b5e
+      internalID: 1621002377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_35
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 283
+        width: 36
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad393a32f3aace44b5f176a2d5fee27
+      internalID: -341979887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_36
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 283
+        width: 32
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cb5019876410549856f553fa401dab
+      internalID: -722263441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_37
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 281
+        width: 37
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5979b27b633cd584a9666956df9679bb
+      internalID: 1678730768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_38
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 283
+        width: 36
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6580c919ef15094d82fb4f943bd626a
+      internalID: -987288872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_39
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 283
+        width: 43
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86a70a1d46e79d429b6f3d62ea9153c
+      internalID: -488997215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_40
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 239
+        width: 40
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af370142262bb5c419aa8cb3e0de5a33
+      internalID: 704531587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_41
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 236
+        width: 31
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf4ffb5f4bcfa146ac3ec9e24db1bc2
+      internalID: 1461456057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_42
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 236
+        width: 44
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91caec4a2c672fb41bf20f9fd2bbbba8
+      internalID: -403248561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_43
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 236
+        width: 45
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e79813e8bd09e42906bd3d77e2552c
+      internalID: -1787828353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_44
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 236
+        width: 43
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2bd84e9b6a3b24ba661363453594fb
+      internalID: -749717758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_45
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 232
+        width: 34
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3836e1465299c59458d30db921ad9f34
+      internalID: 1026048897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_46
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 231
+        width: 40
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da8a348f5f147543bc29fbb626e38f9
+      internalID: 463066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_47
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 231
+        width: 31
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f431ba37f4b7d41a6caae8502a0d9b
+      internalID: -1507515573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_48
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 233
+        width: 44
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140c31d9915a59449836584ea1df0242
+      internalID: -1069758349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_49
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 228
+        width: 45
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7e6df51c9a5a442a14f1c97ffa158c
+      internalID: -1896687596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_50
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 229
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7817e652c4b6c37429afc9c88efde6e8
+      internalID: 1910808973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_51
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 229
+        width: 34
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba2a67ae66a17b45baac6396a39471c
+      internalID: -234466118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_52
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 182
+        width: 33
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cccb118ca3b3345b021c71c0242991
+      internalID: 589515425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 182
+        width: 42
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee6775f9075da244838f6730dfa7092
+      internalID: 1810203237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_54
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 182
+        width: 32
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36121db930548a540a59f5b662851bfd
+      internalID: 236655906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_55
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 182
+        width: 44
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cde30c0fe23f74a9966333448e7991
+      internalID: -528904498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 182
+        width: 44
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41339eb850535a7498a8c8c24d1c65c6
+      internalID: 159056352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_57
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 182
+        width: 49
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95466daeca6276946b837c0fe428089b
+      internalID: 1436985481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_58
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 171
+        width: 33
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fd05e1a4d31b84195fc6d06b7b133b
+      internalID: -1689224941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_59
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 175
+        width: 42
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dcc6c52d020d843a6800bbace2cdd4
+      internalID: -1381712579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_60
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 171
+        width: 32
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47edac5fdda41e14ba63ee360b64214e
+      internalID: 1364296390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_61
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 173
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f905ec0909e40744dabbaf3e7aec481a
+      internalID: -316967899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_62
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 173
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d771543ace8594d9c0f2136b4fb76e
+      internalID: -563096015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_63
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 171
+        width: 49
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9df2b3f3752fb744ae074fbb226b77e
+      internalID: -1509686050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_64
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 137
+        width: 29
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa49ae813e8cd84ca2520cc483a633f
+      internalID: 2134626873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_65
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 137
+        width: 29
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa06b3e9027100e45a4773ee9d1ba533
+      internalID: 322192515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 137
+        width: 29
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d45dedd3169414199f2241a9b0db8e
+      internalID: -1106383967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_67
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 137
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62ec14fdea365b4e89fe3d6294da15b
+      internalID: -133527018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_68
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 135
+        width: 36
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba218daa599d7e74192faddd74c7aa7a
+      internalID: 919809088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_69
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 134
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7298656d4e17474a845afe3516404b1
+      internalID: 2131153109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_70
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 139
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550e121d7e26e2f45be294c020e12bdb
+      internalID: -992077555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_71
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 140
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f088a10294e5f4e972d710e707bfd1
+      internalID: -1131797456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_72
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 139
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e816c16be1c166e4ea52afa67bb4e3b4
+      internalID: 1915447513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_73
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 135
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff38db911c83ed24b87b26a5a04d407d
+      internalID: 547004679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_74
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 136
+        width: 32
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cf2680bc89eb244aea795053fd465c
+      internalID: -1540344906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_75
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 122
+        width: 30
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6927342a1f5d07e43901c954d09b5ff0
+      internalID: -1477958915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_76
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 122
+        width: 30
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de1b52a621252c41b2ac37ea97567ba
+      internalID: 536069734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_77
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 122
+        width: 30
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e95d2f1d67a0874d8bc40adff047d5a
+      internalID: -1363380105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_78
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 122
+        width: 37
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfa647ef538d464eb048a4f169c8ed4
+      internalID: 129063669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_79
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 120
+        width: 36
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91d546807fcd2541a55e12b1909922b
+      internalID: 1012835285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_80
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 119
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b5d51b131ac0d4dbcfb0a96e5da273
+      internalID: 1749878390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_81
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 124
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0afea1b09a12548b422d19b02a1214
+      internalID: 83745025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_82
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 125
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617f67b2fe1c2254b973652b6b8062ca
+      internalID: 500613208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_83
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 124
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145fbc8c98c0b48418ece504985abb95
+      internalID: -872006024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_84
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 120
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1a3a89f55aa2041a507624ab22e0b8
+      internalID: -1823138866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_85
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 121
+        width: 32
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9fcb24d8ceea049b89cdd5ee2e0b09
+      internalID: 274826741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_86
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 80
+        width: 34
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16f67ea8d3be5f4aa33c0947386ecb8
+      internalID: 1471488010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_87
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 80
+        width: 35
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1feab1ab3c698564baee6c61b94f81cc
+      internalID: -863874190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_88
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 80
+        width: 33
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed7206ad2cfd434b9c2abaf8ec26c9c
+      internalID: 1228047273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_89
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 80
+        width: 35
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc34416fcffdc74a86b4b987338c8ae
+      internalID: -1261688558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_90
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 80
+        width: 35
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d3d754a9f110742a52c0e5980bde59
+      internalID: -1336663853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_91
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 80
+        width: 37
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87ec97e2b9554043b2b61fe102b5648
+      internalID: 937363674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_92
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 54
+        width: 170
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039515542a4735642b900447da08cfa9
+      internalID: -1866297707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_93
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 59
+        width: 35
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bc5bbcd6db3ce44ac6db122607cec3
+      internalID: 1433235936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_94
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 59
+        width: 35
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63c8f969e6259944b259b2a0b5c4422
+      internalID: -2117643660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_95
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 59
+        width: 34
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a90dd7a5a36df45965625028c72374
+      internalID: 1910409658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_96
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 59
+        width: 35
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3766179e6db0ff4da804e0723695698
+      internalID: -1362642890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_97
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 59
+        width: 35
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42f117714efdbc4c9f7260705c7566b
+      internalID: -962222626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_98
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 59
+        width: 37
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841855d6eb0985144bd1349fae8b4fb9
+      internalID: 644421192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klipartz.com (1) 1_99
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 38
+        width: 170
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4e5e4b91a23cb4784f06fcfeb96cd0
+      internalID: -700112605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      klipartz.com (1) 1_33: -786193123
+      klipartz.com (1) 1_19: 1568602644
+      klipartz.com (1) 1_0: 1399454626
+      klipartz.com (1) 1_95: 1910409658
+      klipartz.com (1) 1_40: 704531587
+      klipartz.com (1) 1_21: 635088137
+      klipartz.com (1) 1_74: -1540344906
+      klipartz.com (1) 1_27: 549370060
+      klipartz.com (1) 1_66: -1106383967
+      klipartz.com (1) 1_61: -316967899
+      klipartz.com (1) 1_97: -962222626
+      klipartz.com (1) 1_85: 274826741
+      klipartz.com (1) 1_12: -1919754853
+      klipartz.com (1) 1_3: -1340794502
+      klipartz.com (1) 1_88: 1228047273
+      klipartz.com (1) 1_78: 129063669
+      klipartz.com (1) 1_16: 2058208205
+      klipartz.com (1) 1_45: 1026048897
+      klipartz.com (1) 1_65: 322192515
+      klipartz.com (1) 1_92: -1866297707
+      klipartz.com (1) 1_82: 500613208
+      klipartz.com (1) 1_67: -133527018
+      klipartz.com (1) 1_1: 21539074
+      klipartz.com (1) 1_42: -403248561
+      klipartz.com (1) 1_2: 1061805559
+      klipartz.com (1) 1_24: -379939159
+      klipartz.com (1) 1_62: -563096015
+      klipartz.com (1) 1_47: -1507515573
+      klipartz.com (1) 1_6: -664178095
+      klipartz.com (1) 1_17: -1804033507
+      klipartz.com (1) 1_90: -1336663853
+      klipartz.com (1) 1_72: 1915447513
+      klipartz.com (1) 1_31: -1113274289
+      klipartz.com (1) 1_52: 589515425
+      klipartz.com (1) 1_5: 1327997508
+      klipartz.com (1) 1_28: -2127397920
+      klipartz.com (1) 1_10: -1562644844
+      klipartz.com (1) 1_43: -1787828353
+      klipartz.com (1) 1_50: 1910808973
+      klipartz.com (1) 1_34: 1621002377
+      klipartz.com (1) 1_86: 1471488010
+      klipartz.com (1) 1_71: -1131797456
+      klipartz.com (1) 1_89: -1261688558
+      klipartz.com (1) 1_55: -528904498
+      klipartz.com (1) 1_73: 547004679
+      klipartz.com (1) 1_99: -700112605
+      klipartz.com (1) 1_58: -1689224941
+      klipartz.com (1) 1_75: -1477958915
+      klipartz.com (1) 1_87: -863874190
+      klipartz.com (1) 1_25: -883333726
+      klipartz.com (1) 1_14: -635825054
+      klipartz.com (1) 1_83: -872006024
+      klipartz.com (1) 1_77: -1363380105
+      klipartz.com (1) 1_94: -2117643660
+      klipartz.com (1) 1_53: 1810203237
+      klipartz.com (1) 1_35: -341979887
+      klipartz.com (1) 1_76: 536069734
+      klipartz.com (1) 1_13: 646369801
+      klipartz.com (1) 1_93: 1433235936
+      klipartz.com (1) 1_26: 675496802
+      klipartz.com (1) 1_8: 2067057619
+      klipartz.com (1) 1_36: -722263441
+      klipartz.com (1) 1_70: -992077555
+      klipartz.com (1) 1_38: -987288872
+      klipartz.com (1) 1_96: -1362642890
+      klipartz.com (1) 1_18: 1118781141
+      klipartz.com (1) 1_69: 2131153109
+      klipartz.com (1) 1_49: -1896687596
+      klipartz.com (1) 1_59: -1381712579
+      klipartz.com (1) 1_80: 1749878390
+      klipartz.com (1) 1_7: 353502770
+      klipartz.com (1) 1_29: -336383312
+      klipartz.com (1) 1_32: -1997141339
+      klipartz.com (1) 1_39: -488997215
+      klipartz.com (1) 1_4: 1954639255
+      klipartz.com (1) 1_57: 1436985481
+      klipartz.com (1) 1_41: 1461456057
+      klipartz.com (1) 1_44: -749717758
+      klipartz.com (1) 1_30: 1959637809
+      klipartz.com (1) 1_54: 236655906
+      klipartz.com (1) 1_79: 1012835285
+      klipartz.com (1) 1_22: 1632273763
+      klipartz.com (1) 1_60: 1364296390
+      klipartz.com (1) 1_46: 463066
+      klipartz.com (1) 1_98: 644421192
+      klipartz.com (1) 1_9: -425339704
+      klipartz.com (1) 1_37: 1678730768
+      klipartz.com (1) 1_51: -234466118
+      klipartz.com (1) 1_23: 637918910
+      klipartz.com (1) 1_11: 950388629
+      klipartz.com (1) 1_64: 2134626873
+      klipartz.com (1) 1_81: 83745025
+      klipartz.com (1) 1_91: 937363674
+      klipartz.com (1) 1_15: -1991574740
+      klipartz.com (1) 1_20: -1995143731
+      klipartz.com (1) 1_56: 159056352
+      klipartz.com (1) 1_84: -1823138866
+      klipartz.com (1) 1_48: -1069758349
+      klipartz.com (1) 1_63: -1509686050
+      klipartz.com (1) 1_68: 919809088
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
